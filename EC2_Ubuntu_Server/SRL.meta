@@ -1,0 +1,7 @@
+{
+"Title" : "EC2 - Ubuntu 20 on t2.2XL",
+"Description" : "T2.2XL EC2 Ubuntu Server with HTTP/HTTPS",
+"Docslink" : "https://saltsecurity.atlassian.net/wiki/home",
+"Version" : "1.0.0",
+"Dependencies" : ["AWS - My SRL VPC"] 
+}
